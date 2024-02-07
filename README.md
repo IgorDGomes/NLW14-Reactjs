@@ -1,6 +1,6 @@
 # NLW React
 
-This project was built from the [NLW Expert](https://www.rocketseat.com.br/) track, mainly using [Vite](https://vitejs.dev/), [Typescript](https://www.typescriptlang.org/) and [TailwindCSS](https://tailwindcss.com/).
+This project was built from the [NLW Expert](https://www.rocketseat.com.br/) React track, mainly using [Vite](https://vitejs.dev/), [Typescript](https://www.typescriptlang.org/) and [TailwindCSS](https://tailwindcss.com/).
 
 ## Getting Started
 
